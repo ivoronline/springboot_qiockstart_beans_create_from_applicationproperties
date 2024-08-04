@@ -1,6 +1,6 @@
 package com.ivoronline.springboot_qiockstart_beans_create_from_applicationproperties.controller;
 
-import com.ivoronline.springboot_qiockstart_beans_create_from_applicationproperties.Person;
+import com.ivoronline.springboot_qiockstart_beans_create_from_applicationproperties.data.Person;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;

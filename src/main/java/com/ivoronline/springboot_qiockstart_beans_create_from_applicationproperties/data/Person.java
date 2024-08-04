@@ -1,4 +1,4 @@
-package com.ivoronline.springboot_qiockstart_beans_create_from_applicationproperties;
+package com.ivoronline.springboot_qiockstart_beans_create_from_applicationproperties.data;
 
 import lombok.Setter;
 

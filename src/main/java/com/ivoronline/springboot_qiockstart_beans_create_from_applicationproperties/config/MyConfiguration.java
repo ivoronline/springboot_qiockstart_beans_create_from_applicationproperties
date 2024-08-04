@@ -1,6 +1,6 @@
 package com.ivoronline.springboot_qiockstart_beans_create_from_applicationproperties.config;
 
-import com.ivoronline.springboot_qiockstart_beans_create_from_applicationproperties.Person;
+import com.ivoronline.springboot_qiockstart_beans_create_from_applicationproperties.data.Person;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
